@@ -3,7 +3,17 @@ h3{
 }
 h4{
     background-color: brown;
-}
+        background-color: #FF813E; /* Color of the box */
+        color: white; /* Color of the text */
+        font-weight: bold; /* Font weight of the text */
+        padding: 15px; /* Padding of the box */
+        border: 3px solid #B34F19; /* Border of the box */
+        border-radius: 10px; /* Border radius of the box */
+        text-align: center; /* Align the text to center */
+        font-size: 22px; /* Font size of the text */
+        margin: 40px 0; /* Margin of the box */
+      }
+
 h5{
     background-color: blueviolet;
     font-size: 40px;
